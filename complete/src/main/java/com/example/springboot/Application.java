@@ -1,4 +1,4 @@
-package com.example.springboot;
+package com.az104.sample.springboot;
 
 import java.util.Arrays;
 
